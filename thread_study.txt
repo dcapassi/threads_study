@@ -2,3 +2,4 @@ This repository will contain the thread study files.
 
 Plan:
 - Study threads on OS.
+- Study Python threads.
